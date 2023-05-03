@@ -1,0 +1,77 @@
+.main{
+    background-color: bisque;
+    border: solid ;
+    margin: 0px 450px;
+    }
+
+p{
+    padding-left: 15px;
+}
+.logo{
+    padding-top: 43px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-top: 5px;
+}
+
+.head{
+    display: flex;    
+}
+
+.name{
+    margin-left: 10%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+.line1{
+    display: flex;
+    margin: 0px 55px;
+}
+
+
+.career{
+    
+    margin-left: 0px;
+    padding-left: 65px;
+}
+
+.line2{
+    display: flex;
+    margin: 0px 55px;
+}
+.part1{
+    margin: 0% 0px 0px 105px;
+    padding-left: 95px;
+}
+.part2{
+    padding-top: 45px;
+    padding-left: 70px;
+}
+
+.line3{
+    display: flex;
+    margin: 0px 55px;
+}
+.part3{
+    padding-left: 140px;
+}
+.part4{
+    padding-top: 45px;
+    padding-left: 135px;
+}
+
+.line4{
+    display: flex;
+    margin: 0px 55px;
+}
+.part5{
+    padding-left: 235px;
+}
